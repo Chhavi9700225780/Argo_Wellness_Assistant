@@ -235,18 +235,16 @@ ALLOWED_ORIGIN=https://your-frontend.vercel.app
 
 ---
 
-## ❤️ **Contributing**
 
-Pull requests are welcome!
-For major changes, open an issue first.
-
----
 
 ## 📜 **License**
 
-MIT License.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
+---
+## Author
+
+Chhavi
 ---
 
 
-Just tell me!
